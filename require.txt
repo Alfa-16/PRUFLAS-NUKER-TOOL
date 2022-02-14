@@ -1,0 +1,15 @@
+English:
+-This project require:
+ python
+ nodejs
+-cmd commands to do:
+ pip install os
+ pip install tkinter
+
+Italiano:
+-Questo progetto richiede:
+ python
+ nodejs
+-Comandi da eseguire sul terminale windows:
+ pip install os
+ pip install tkinter
